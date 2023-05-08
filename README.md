@@ -8,7 +8,7 @@
 
 ![Duduedu9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Duduedu9&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
